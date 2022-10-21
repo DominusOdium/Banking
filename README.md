@@ -1,2 +1,5 @@
 # Banking
 A Banking program 
+
+This is a program about Banking and savings with and without a monthly deposit, and the annual interest rate. All data is entered by the user.
+When looking back on this project the one thing I did well was incorporating Python into this C++ project. I could probably enhance this code by changing the colors of some of the text, or adding more functions. I do not think this would make it more efficient per se, but, I do believe that it could enhance the overall program. The harder part of the code was the main body and debugging. Syntax as well as whitepsace often trip me up. As for tools and resources I intend to to incorporate in my support forum, I will stick to tutors, youtube, Khan academy and my Professor. To create any program takes some very analytical thinking. This skill is going to transfer well to my other courses in the future. To make this program maintainable, I used some re-useable code, as to make it cleaner and faster I incorporated Python to handle the functions and C++ to handle the main program. Looking forwards to adding more repositories to my profile.
